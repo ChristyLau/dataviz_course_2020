@@ -1,0 +1,33 @@
+,Name,LongName,Country,Sector,FullTimeEmployees,EnterpriseValue,EarningsQuarterlyGrowth,ProfitMargins
+0,SAP.DE,SAP SE,Germany,Technology,101379.0,163550576640.0,0.524,0.16184
+1,BAYN.DE,Bayer Aktiengesellschaft,Germany,Healthcare,101168.0,79107547136.0,,-0.1291
+2,SIE.DE,Siemens Aktiengesellschaft,Germany,Industrials,293000.0,123983454208.0,-0.47800000000000004,0.041479997000000005
+3,ALV.DE,Allianz SE,Germany,Financial Services,147268.0,77854818304.0,-0.28600000000000003,0.06053000000000001
+4,BAS.DE,BASF SE,Germany,Basic Materials,117563.0,69463203840.0,,0.0182
+5,DTE.DE,Deutsche Telekom AG,Germany,Communication Services,229170.0,229342855168.0,-0.201,0.04059
+6,VOW3.DE,Volkswagen AG,Germany,Consumer Cyclical,664717.0,237218758656.0,,0.02586
+7,DAI.DE,Daimler AG,Germany,Consumer Cyclical,293688.0,184952078336.0,,-0.0018799999000000001
+8,BMW.DE,Bayerische Motoren Werke Aktiengesellschaft,Germany,Consumer Cyclical,133778.0,139401478144.0,,0.032479998
+9,ADS.DE,adidas AG,Germany,Consumer Cyclical,59246.0,57711112192.0,,0.026680000000000002
+10,HEN3.DE,Henkel AG & Co. KGaA,Germany,Consumer Defensive,52450.0,41184403456.0,-0.30000000000000004,0.09088001
+11,DPW.DE,Deutsche Post AG,Germany,Industrials,540184.0,64523190272.0,0.146,0.034960000000000005
+12,FRE.DE,Fresenius SE & Co. KGaA,Germany,Healthcare,302846.0,54517764096.0,-0.127,0.050510000000000006
+13,CON.DE,Continental Aktiengesellschaft,Germany,Consumer Cyclical,232023.0,26107023360.0,,-0.07064000000000001
+14,LIN.DE,Linde plc,United Kingdom,Basic Materials,76662.0,117620621312.0,-0.123,0.08373000500000001
+15,FME.DE,Fresenius Medical Care AG & Co. KGaA,Germany,Healthcare,124736.0,33410848768.0,0.383,0.07253000000000001
+16,MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Germany,Financial Services,39693.0,24554725376.0,-0.41600000000000004,0.03286
+17,BEI.DE,Beiersdorf Aktiengesellschaft,Germany,Consumer Defensive,20466.0,21260888064.0,-0.305,0.08162000000000001
+18,WDI.DE,Wirecard AG,Germany,Technology,5685.0,-1911859200.0,0.5720000000000001,0.18642999000000002
+19,IFX.DE,Infineon Technologies AG,Germany,Technology,46730.0,39223091200.0,,0.051599998
+20,DB1.DE,Deutsche Börse AG,Germany,Financial Services,6427.0,7841800192.0,-0.038,0.30239000000000005
+21,VNA.DE,Vonovia SE,Germany,Real Estate,10440.0,56721387520.0,,0.6834600000000001
+22,DBK.DE,Deutsche Bank Aktiengesellschaft,Germany,Financial Services,86824.0,-79999115264.0,,-0.10958999400000001
+23,EOAN.DE,E.ON SE,Germany,Utilities,80366.0,60931383296.0,,0.027290002
+24,RWE.DE,RWE Aktiengesellschaft,Germany,Utilities,19710.0,21692868608.0,,0.6546500000000001
+25,HEI.DE,HeidelbergCement AG,Germany,Basic Materials,53882.0,21143703552.0,,-0.12559
+26,TKA.DE,thyssenkrupp AG,Germany,Industrials,155446.0,11925977088.0,,-0.054680000000000006
+27,MRK.DE,MERCK Kommanditgesellschaft auf Aktien,Germany,Healthcare,57523.0,66415501312.0,-0.384,0.08314
+28,LHA.DE,Deutsche Lufthansa AG,Germany,Industrials,129356.0,10989524992.0,,-0.08344
+29,DWNI.DE,Deutsche Wohnen SE,Germany,Real Estate,3549.0,26498904064.0,-0.8140000000000001,0.48569000000000007
+30,MTX.DE,MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond (DR) UCITS ETF - Acc,,Industrials,10660.0,,,0.1033
+31,1COV.DE,Covestro AG,Germany,Basic Materials,16803.0,9329330176.0,,0.01386
